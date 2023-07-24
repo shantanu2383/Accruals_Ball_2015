@@ -12,4 +12,4 @@ Long-Term Predictive Power: Cash-based operating profitability's ability to pred
 
 This body of work provides a cogent reiteration of the original study's main premise – that cash-based profitability plays a crucial role in predicting stock returns, and its importance is distinct from the value premium.
 
-The repository houses the code used in our replication, offering a valuable resource for anyone keen on studying these aspects further.
+The repository houses the code used in my replication, offering a valuable resource for anyone keen on studying these aspects further.
